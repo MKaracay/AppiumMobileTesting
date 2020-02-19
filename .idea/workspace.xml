@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80dc95c0-d093-422a-b199-ef51dde5df20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XqUPsjJmtaN9YQclWWqtaQT5Tq" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AppiumAutomationEU2019" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.automation.tests.day1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intelliJ\AppiumAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTests.test1">
+    <configuration name="CalculatorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day1.CalculatorTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day1.CalculatorTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day1.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day1.TestRunner" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTests.test1" />
+        <item itemvalue="JUnit.CalculatorTests" />
+        <item itemvalue="JUnit.TestRunner.test" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80dc95c0-d093-422a-b199-ef51dde5df20" name="Default Changelist" comment="" />
+      <created>1581773097996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581773097996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3065" y="242" key="#Project_Structure" timestamp="1581773927742">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3065" y="242" key="#Project_Structure/0.0.5057.1440@0.0.5057.1440" timestamp="1581773927742" />
+    <state x="3108" y="265" key="#TestRunner.test" timestamp="1581774460105">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3108" y="265" key="#TestRunner.test/0.0.5057.1440@0.0.5057.1440" timestamp="1581774460105" />
+    <state x="3301" y="408" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582062364876">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3301" y="408" key="#com.intellij.ide.util.PackageChooserDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1582062364876" />
+    <state x="3381" y="516" width="505" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582062366232">
+      <screen x="0" y="0" width="5057" height="1440" />
+    </state>
+    <state x="3381" y="516" width="505" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.5057.1440@0.0.5057.1440" timestamp="1582062366232" />
+    <state x="3996" y="407" key="FileChooserDialogImpl" timestamp="1582138449708">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state x="3996" y="407" key="FileChooserDialogImpl/0.0.5058.1440@0.0.5058.1440" timestamp="1582138449708" />
+    <state width="1508" height="280" key="GridCell.Tab.0.bottom" timestamp="1582139785672">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1799" height="280" key="GridCell.Tab.0.bottom/0.0.5057.1440@0.0.5057.1440" timestamp="1582063208320" />
+    <state width="1508" height="280" key="GridCell.Tab.0.bottom/0.0.5058.1440@0.0.5058.1440" timestamp="1582139785672" />
+    <state width="1508" height="280" key="GridCell.Tab.0.center" timestamp="1582139785672">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1799" height="280" key="GridCell.Tab.0.center/0.0.5057.1440@0.0.5057.1440" timestamp="1582063208319" />
+    <state width="1508" height="280" key="GridCell.Tab.0.center/0.0.5058.1440@0.0.5058.1440" timestamp="1582139785672" />
+    <state width="1508" height="280" key="GridCell.Tab.0.left" timestamp="1582139785672">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1799" height="280" key="GridCell.Tab.0.left/0.0.5057.1440@0.0.5057.1440" timestamp="1582063208319" />
+    <state width="1508" height="280" key="GridCell.Tab.0.left/0.0.5058.1440@0.0.5058.1440" timestamp="1582139785672" />
+    <state width="1508" height="280" key="GridCell.Tab.0.right" timestamp="1582139785672">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state width="1799" height="280" key="GridCell.Tab.0.right/0.0.5057.1440@0.0.5057.1440" timestamp="1582063208319" />
+    <state width="1508" height="280" key="GridCell.Tab.0.right/0.0.5058.1440@0.0.5058.1440" timestamp="1582139785672" />
+    <state x="3201" y="450" key="com.intellij.ide.util.TipDialog" timestamp="1582132016501">
+      <screen x="0" y="0" width="5058" height="1440" />
+    </state>
+    <state x="3200" y="450" key="com.intellij.ide.util.TipDialog/0.0.5057.1440@0.0.5057.1440" timestamp="1581865328469" />
+    <state x="3201" y="450" key="com.intellij.ide.util.TipDialog/0.0.5058.1440@0.0.5058.1440" timestamp="1582132016501" />
+  </component>
+</project>
