@@ -39,7 +39,7 @@ public class EtsyTests {
         driver = new AndroidDriver(new URL("http://localhost:4723/wd/hub"), desiredCapabilities);
         WebDriverWait wait = new WebDriverWait(driver, 15);
         //wait for get started button
-        //wait.until(ExpectedConditions.presenceOfElementLocated(By.id("com.etsy.android:id/btn_link")));
+        wait.until(ExpectedConditions.presenceOfElementLocated(By.id("com.etsy.android:id/btn_link")));
         WebElement getStarted = driver.findElement(By.id("com.etsy.android:id/btn_link"));
         getStarted.click();
         //username input box
